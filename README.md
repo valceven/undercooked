@@ -2,6 +2,7 @@
 
 ## Documentation
 ``` 
+Continue on Part 04 9:17
 1. Keiru - Gamescreen: changed the  the GameScreen to use Engine Ashley ECS instead of World Fleks ECS, upgraded to create more 
 instances of entity more faster!
 Updated renderSystem, ImageComponents.
