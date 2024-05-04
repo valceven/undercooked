@@ -1,5 +1,14 @@
 # UNDERCOOKed
 
+## Documentation
+``` 
+1. Keiru - Gamescreen: changed the  the GameScreen to use Engine Ashley ECS instead of World Fleks ECS, upgraded to create more 
+instances of entity more faster!
+Updated renderSystem, ImageComponents.
+
+2.
+```
+
 A [libGDX](https://libgdx.com/) project generated with [gdx-liftoff](https://github.com/libgdx/gdx-liftoff).
 
 This project was generated with a template including simple application launchers and an `ApplicationAdapter` extension that draws libGDX logo.

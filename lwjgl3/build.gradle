@@ -34,6 +34,7 @@ dependencies {
   implementation "com.badlogicgames.gdx:gdx-bullet-platform:$gdxVersion:natives-desktop"
   implementation "com.badlogicgames.gdx:gdx-platform:$gdxVersion:natives-desktop"
   implementation "com.github.MrStahlfelge.gdx-websockets:common:$websocketVersion"
+  implementation "com.badlogicgames.ashley:ashley:1.7.4"
   implementation project(':core')
 }
 
