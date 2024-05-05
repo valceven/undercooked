@@ -34,8 +34,6 @@ public class renderSystem extends IteratingSystem {
     @Override
     public void update(float deltaTime) {
         super.update(deltaTime);
-
-        stage.getViewport().apply();
         stage.act(deltaTime);
         stage.draw();
     }
